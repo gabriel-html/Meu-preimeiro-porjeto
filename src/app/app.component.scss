@@ -1,0 +1,17 @@
+.titulo {
+    border: 1px solid #f0f0f0;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 2px;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: #fff;
+    transition: 0.4s;
+    box-shadow: 2px 4px 2px 4px rgba(102, 102, 102, 0.199)  ;
+}
+
+.titulo:hover {
+    box-shadow: 3px 4px 3px 5px rgba(102, 102, 102, 0.199)  ;
+    transform: scale(1.1,1.1);
+    transition: 0.4s;
+}
